@@ -67,7 +67,7 @@ Focus areas include:
 
 ## 📹 Project Demo
 
-[![Watch the video](https://img.shields.io/badge/Watch%20Demo-Click%20Here-brightgreen?style=for-the-badge)](sales_volume_project.mp4)
+[![Watch the video](https://img.shields.io/badge/Watch%20Demo-Click%20Here-brightgreen?style=for-the-badge)](sales_volume_predictor.mp4)
 
 ---
 
