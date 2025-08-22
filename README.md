@@ -60,7 +60,7 @@ Focus areas include:
 2. Make sure you have **Python 3.x** installed.  
 3. Open **CMD** (Command Prompt) in the project root folder.  
 4. Install required libraries (if not already installed): **pip install pandas numpy matplotlib seaborn scikit-learn**  
-5. Run the main project script: **python sales_volume.py**  
+5. Run the main project script: **python p1.py**  
 6. The **Tkinter GUI** will open, and you can start interacting with the application.
 
 ---
